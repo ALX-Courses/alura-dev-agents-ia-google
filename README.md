@@ -1,12 +1,16 @@
 # alura-dev-agents-ia-google
-Repositório destinado a "Imersão Dev Agentes de IA Google" da Alura.
+Este repositório armazena os artefatos produzidos durante o curso `Imersão Dev Agentes de IA Google` da Alura.
 
-# Procedimentos iniciais
-Para obter uma cópia local, siga as instruções a seguir:
+## Como obter uma cópia
 
-## Clonagem
+Caso deseje obter uma cópia local:
 
-1. Clonar repositório:
-	```sh
-	git clone https://github.com/alexfdealmeida/alura-dev-agents-ia-google.git
-	```
+  ```sh
+  git clone https://github.com/ALX-Courses/alura-dev-agents-ia-google.git
+  ```
+  
+## Autor
+Alex Almeida
+
+## Licença
+[MIT License](LICENSE)
